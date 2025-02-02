@@ -1,6 +1,6 @@
 # PhD Portfolio - Pooshan Raul
 
-Welcome to the professional PhD portfolio of **Pooshan Raul**, showcasing expertise in **Finite Element Analysis (FEA)**, **Computational Fluid Dynamics (CFD)**, and **Mechanical Design**. This portfolio highlights projects, skills, and academic achievements tailored for PhD applications in fields like thermofluids, mechanical design, and computational modeling.
+Welcome to the PhD portfolio of **Pooshan Raul**, showcasing expertise in **Finite Element Analysis (FEA)**, **Computational Fluid Dynamics (CFD)**, and **Mechanical Design**. This portfolio highlights projects, skills, and academic achievements tailored for PhD applications in fields like thermofluids, mechanical design, and computational modeling.
 
 ---
 
